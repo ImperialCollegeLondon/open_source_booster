@@ -16,7 +16,7 @@ The team will strive to review the applications for the call, announce the winne
 
 The following diagram offers a better idea of the timeline for the OSB programme, with each call lasting around 2 months from its opening to the completion of the execution of the projects. 
 
-![[timeline.png]]
+![](timeline.png)
 
 We aim to open a call every 2 months, but this might suffer from minor changes due to summer or Christmas holidays, for example. The exact number of slots we offer will be stated at the time of opening the call, but typically they will be 2 or 3 per call. More information for each call will be provided via the [Imperial RS Slack Workspace](https://join.slack.com/t/imperialsrscommunity/shared_invite/zt-e6e02hwh-ex8tqtlzVUL~CltktSQPnw), and the [Imperial RS Community Newsletter](https://imperialcollegelondon.github.io/rs-community-newsletters/). 
 

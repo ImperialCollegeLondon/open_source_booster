@@ -22,6 +22,7 @@ We aim to open a call every 2 months, but this might suffer from minor changes d
 
 ## Next call
 
+- **Slots offered**: 2
 - **Application period**: 1st-14th September 2022
 - **Announcement of successful projects**: 28th September 2022
 - **Project delivery period**: October 2022

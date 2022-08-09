@@ -22,8 +22,8 @@ We aim to open a call every 2 months, but this might suffer from minor changes d
 
 ## Next call
 
-- **Application period**: 1st-15th September 2022
-- **Announcement of successful projects**: 25th September 2022
+- **Application period**: 1st-14th September 2022
+- **Announcement of successful projects**: 28th September 2022
 - **Project delivery period**: October 2022
 
 **Application will open on the 1st September 2022**

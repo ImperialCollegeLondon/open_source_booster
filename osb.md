@@ -27,7 +27,7 @@ We aim to open a call every 2 months, but this might suffer from minor changes d
 - **Announcement of successful projects**: 28th September 2022
 - **Project delivery period**: October 2022
 
-**Application will open on the 1st September 2022**
+**[Start application](https://forms.office.com/r/24XGsszj4Q)**
 
 Keep an eye on this space, the [Imperial RS Slack Workspace](https://join.slack.com/t/imperialsrscommunity/shared_invite/zt-e6e02hwh-ex8tqtlzVUL~CltktSQPnw), and the [Imperial RS Community Newsletter](https://imperialcollegelondon.github.io/rs-community-newsletters/) for the latest updates on the next OSB call. 
 

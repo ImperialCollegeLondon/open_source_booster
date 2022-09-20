@@ -70,6 +70,18 @@ This option puts in place the infrastructure to build and deploy the documentati
 
 Most of this task focuses on training the researchers on how to populate the documentation with the relevant information. 
 
+### Option 4: Audit of software quality and performance: 
+
+This option will review the software repository as a whole, providing detailed feedback for the developers to action on aspects like: 
+
+- End user documentation 
+- Technical documentation
+- Code style and standards
+- Use of appropriate tooling and design patterns
+- Profiling and performance assesment (depending on the software complexity and time permitting) 
+
+A report will be produced and/or issues in the software repository open to guide the developers in the implementation of the key aspects identified during the audit.
+
 ## Selection criteria 
 
 The following aspects of the software will be evaluated by the members of the RSE Team to select the awarded projects on each round. Aggregated feedback will be provided for each selection criteria as well as recommendations for future steps. 
